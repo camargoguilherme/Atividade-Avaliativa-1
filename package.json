@@ -1,0 +1,15 @@
+{
+  "name": "Atividade-Avaliativa-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": "https://github.com/camargoguilherme/Atividade-Avaliativa-1.git",
+  "author": "Guilherme Camargo <guilhermecamargo57@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.3.1"
+  }
+}
